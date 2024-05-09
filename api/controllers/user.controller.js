@@ -1,6 +1,6 @@
 export const test = (req , res) => {
     res.json({
-        message: 'fuck you'
+        message: 'Api route is working!'
     }
     )
 }
